@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 😄 I love Javascript
+- 🌱 I'm a VR Enthusiast
+- 💬 I love playing Rhytm games
+- ⚡ I like making Music Visualizers
+- 🔭 I'm learning about Cybersecurity
+- 😄 Pronouns: He/Him
+
+
+
 <!--
 **Nithin005/Nithin005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
