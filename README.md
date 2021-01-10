@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Nithin005)
+
 - 😄 I love Javascript
 - 🌱 I'm a VR Enthusiast
 - 💬 I love playing Rhytm games
@@ -7,6 +9,8 @@
 - 🔭 I'm learning about Cybersecurity
 - 😄 Pronouns: He/Him
 
+
+![Nithin's github stats](https://abigo-stats.abigo.vercel.app/api?username=Nithin005&show_icons=true&theme=onedark)
 
 
 <!--
